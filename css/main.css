@@ -56,7 +56,7 @@ html {
 
 body {
   overflow-x: hidden;
-  color: #666;
+  color: #252525;
   line-height: 1.4;
 }
 
@@ -82,4 +82,6 @@ img {
   width: 100%;
   max-width: 100%;
   overflow: hidden;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
